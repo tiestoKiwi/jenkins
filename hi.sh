@@ -1,2 +1,2 @@
 echo "Care loca"
-echo "probando trigger"  
+echo "probando trigger ahora con ngrok" 
