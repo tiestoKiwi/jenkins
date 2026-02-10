@@ -1,2 +1,2 @@
 echo "Care loca"
-echo "sii"  
+echo "probando trigger"  
